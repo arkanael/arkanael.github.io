@@ -1,7 +1,7 @@
 title: Guilherme
-description: Meus estudos de .NET
+description: Meus Estudos de .NET
 
-url: https://github.com/arkanael
+url: https://github.com/arkanael/arkanael.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,7 +16,7 @@ navigation:
    url: /index.html
  - title: Sobre
    url: /about
- - title: Contatos
+ - title: Contato
    url: /contact
 
 social:
@@ -25,3 +25,4 @@ social:
    facebook: luiz.guilherme.58367
    email: arkanael@gmail.com
 
+google_analytics: ""
