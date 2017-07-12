@@ -1,7 +1,7 @@
-title: "Guilherme"
-description: "Meus estudos de .NET"
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://github.com/arkanael
+url: https://github.com/arkanael/arkanael.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,17 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Início
+ - title: Home
    url: /index.html
- - title: Sobre
+ - title: About
    url: /about
- - title: Contatos
+ - title: Contact
    url: /contact
 
 social:
-   github: arkanael
-   twitter: arkanael
-   facebook: luiz.guilherme.58367
-   email: arkanael@gmail.com
+   github: brianmaierjr
+   twitter: brianmaierjr
+   facebook: brianmaierjr
+   email: brimaidesigns@gmail.com
 
-google_analytics: ""
+google_analytics: "UA-58263416-1"
