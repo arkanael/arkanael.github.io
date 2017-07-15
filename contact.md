@@ -6,6 +6,6 @@ title: Entre em contato
 <div id="contact">
   <h1 class="pageTitle">Contatos</h1>
   <div class="contactContent">
-    <p class="intro">Criticas sugestões entre em contado <code>contact.html</code> file.</p>
+    <p class="intro">Contatos <code>contact.html</code> file.</p>
   </div>
 </div>
