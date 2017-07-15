@@ -6,9 +6,9 @@ title: Contact Long Haul
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Caso de duvidas, criticas <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="https://www.facebook.com/luiz.guilherme.58367">Facebook.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:arkanael@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">Caso de duvidas, criticas e sugestoes entre em contato <code>contact.html</code> file.</p>
+    <p>Siga no <a href="https://www.facebook.com/luiz.guilherme.58367">Facebook.</a> Follow the directions on their site to set up the form for use.</p>
+    <p>E-mails tambem são bem vindos por isso <a href="mailto:arkanael@gmail.com">email me</a> ou entre em contato pelo propio <a href="https://github.com/arkanael">GitHub</a>.</p>
   </div>
   <form action="https://formspree.io/arkanael@gmail.com" method="POST">
     <label for="name">Name</label>
