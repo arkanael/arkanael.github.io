@@ -15,12 +15,4 @@ title: Sobre Mim
       
       
   	</ul>
-
-	<form action="https://formspree.io/arkanel@gmail.com"Use our URL as form's action
-      method="POST"Forms must POST>
-     <input type="text" name="name">
-     <input type="email" name="_replyto"Use advanced attributes>
-     <input type="submit" value="Send">When user submits, we'll email data to you
- </form>
-
 </div>
