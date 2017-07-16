@@ -2,6 +2,7 @@
 layout: post
 title:  "Primeiro programa console"
 date:   2017-07-16
+encoding: UTF-8
 ---
 
 <p class="intro"><span class="dropcap">N</span>este exemplo vamos criar o primeiro aplicativo do tipo console application para aprender-mos sobre classes, atributos e métodos. iremos falar sobre
