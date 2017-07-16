@@ -4,11 +4,11 @@ title: Contato
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contate me</h1>
   <div class="contactContent">
     <p class="intro">Caso de duvidas, criticas e sugestoes entre em contato <code>contact.html</code> file.</p>
-    <p>Siga no <a href="https://www.facebook.com/luiz.guilherme.58367">Facebook.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>E-mails tambem soo bem vindos por isso <a href="mailto:arkanael@gmail.com">email me</a> ou entre em contato pelo propio <a href="https://github.com/arkanael">GitHub</a>.</p>
+    <p>Siga no <a href="https://www.facebook.com/luiz.guilherme.58367">Facebook.</a>.</p>
+    <p>E-mails tambem sao bem vindos por isso <a href="mailto:arkanael@gmail.com">email me</a> ou entre em contato pelo propio <a href="https://github.com/arkanael">GitHub</a>.</p>
   </div>
   <form action="https://formspree.io/arkanael@gmail.com" method="POST">
     <label for="name">Name</label>

@@ -11,7 +11,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
-encoding: UTF-8
+encoding: "utf-8"
 
 navigation:
  - title: Início
